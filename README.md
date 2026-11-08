@@ -157,11 +157,11 @@ Airline-Passenger-Satisfaction/
 
 ## 👨‍💻 Author
 
-### **Amr Ramadan**
+### **Anand Verma**
 
-**Data Analyst | Software Developer**
+**Data Analyst/ Mis Analyst**
 
-🔗 **GitHub:** [(https://github.com/AmrRamadan01092)]
+🔗 **GitHub:** [(https://github.com/Anandverma818283-Git?tab=repositories)]
 
 ---
 
